@@ -13,7 +13,7 @@ Some people have started working on apps for the Mastodon API. Here is a list of
 |11t|iOS/[Android](https://play.google.com/store/apps/details?id=com.jeroensmeets.mastodon)|<https://github.com/jeroensmeets/mastodon-app>|[@jeroensmeets@mastodon.social](https://mastodon.social/users/jeroensmeets)|
 |[Amaroq](https://itunes.apple.com/us/app/amarok-for-mastodon/id1214116200?ls=1&mt=8)|iOS|<https://itunes.apple.com/us/app/amarok-for-mastodon/id1214116200?ls=1&mt=8>|[@eurasierboy@mastodon.social](https://mastodon.social/users/eurasierboy)|
 |Albatross|iOS||[@goldie_ice@mastodon.social](https://mastodon.social/users/goldie_ice)|
-|Tooter|Chrome|<https://github.com/ineffyble/tooter>|[@effy@mastodon.social](https://mastodon.social/users/effy)|
+|[Tooter](https://github.com/ineffyble/tooter)|Browser (Chrome)|[GitHub](https://github.com/ineffyble/tooter) / [Chrome Web Store](https://chrome.google.com/webstore/detail/tooter/okmlpjijminjkikninbkcnfmhkofgnnk)|[@effy@mastodon.social](https://mastodon.social/users/effy)|
 |tootstream|CLI|<https://github.com/magicalraccoon/tootstream>|[@Raccoon@mastodon.social](https://mastodon.social/users/Raccoon)|
 |toot|CLI|<https://github.com/ihabunek/toot>|[@ihabunek@mastodon.social](https://mastodon.social/users/ihabunek)|
 | [Capella](https://github.com/coolstar/Capella) | Windows 7, 8.1, 10 | https://coolstar.org/capella | [@coolstar@mastodon.social](https://mastodon.social/users/coolstar)|
